@@ -1,4 +1,4 @@
-Welcome to my ecommerce website, built with cutting-edge web technologies such as Tailwind CSS, React, Strapi, and Redux Toolkit. Our goal is to provide a seamless shopping experience for our customers by leveraging the power of these frameworks and tools.
+# Ecommerce website with Tailwind CSS, React, Strapi, and Redux Toolkit
 
 Tailwind CSS has been used extensively to design and style our website, ensuring a modern and responsive layout that adapts to different screen sizes. React, a popular JavaScript library, has been used to build the dynamic components and functionality of our website, resulting in a fast and user-friendly experience.
 
